@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\bin\Debug\net6.0\SwinAdventure It 2.exe
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\bin\Debug\net6.0\SwinAdventure It 2.deps.json
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\bin\Debug\net6.0\SwinAdventure It 2.runtimeconfig.json
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\bin\Debug\net6.0\SwinAdventure It 2.dll
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\bin\Debug\net6.0\SwinAdventure It 2.pdb
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.AssemblyInfo.cs
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.dll
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\refint\SwinAdventure It 2.dll
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.pdb
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\SwinAdventure It 2.genruntimeconfig.cache
+C:\Users\marcu\Desktop\OOP-2023\23-2.4P It 2\obj\Debug\net6.0\ref\SwinAdventure It 2.dll
